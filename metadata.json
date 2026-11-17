@@ -1,0 +1,6 @@
+{
+  "name": "NETWORK LAB SIMULATOR: Virtual LAN & WiFi Assembly",
+  "description": "Media pembelajaran interaktif Informatika SMK untuk merancang, merakit, mengonfigurasi, dan menguji jaringan LAN serta WiFi secara virtual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
